@@ -1,0 +1,8 @@
+body {
+    background: white url("Search Icon.png") no-repeat;
+}
+
+li a {
+    color: rgb(67, 211, 255);
+    font-size: 20px;
+}
